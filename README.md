@@ -11,7 +11,7 @@
 
 #### Front-end developer
 
-- Knowledge: JavaScript, Scss, HTML5, CSS3 and Git & GitHub...
+- Knowledge: JavaScript, Sass, HTML5, CSS3 and Git & GitHub...
 - gabrieldeluchi6@gmail.com
 
   <div style="display: inline_block"><br>
