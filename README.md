@@ -15,6 +15,8 @@
 - Knowledge: JavaScript, Sass, HTML5, CSS3 and Git & GitHub...
 - gabrieldeluchi6@gmail.com
 
+>### Skills <img src="https://user-images.githubusercontent.com/98788821/209614966-decb7a0e-03fe-425a-837d-cd511d6197ee.gif" width="60" height="60"/> 
+
   <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" height="80"/>
@@ -23,7 +25,7 @@
   
   ##
   
-### Links
+### Links <img src="https://wealthie.works/wp-content/uploads/WLTH_Fox_Loop_v001.gif" width="60" height="60"/>
 >>[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white)](https://)
 >
 >>[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://)
