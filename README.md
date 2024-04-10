@@ -4,7 +4,7 @@
 
 <div align="center">
 
-    I'm a full stack developer... Or maybe, a back-end developer; I do really love back-end.
+    "As a full stack developer, I have a wide range of skills... But, I confess, my true passion is in the back-end, that's where I really feel at home."
 
 </div>
 
