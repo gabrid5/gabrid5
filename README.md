@@ -4,7 +4,8 @@
 
 <div align="center">
 
-    As a full stack developer, I have a wide range of skills... But, I confess, my true passion is in the back-end, that's where I really feel at home.
+    As a full stack developer, I have a wide range of skills... 
+    But, I confess, my true passion is in the back-end, that's where I really feel at home.
 
 </div>
 
