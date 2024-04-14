@@ -4,12 +4,16 @@
 
 - **About Me:** " Eai, galera! Como não podemos nos conhecer pessoalmente, aqui vai um pouco sobre mim... Mexo com tecnologia há 2 anos, já desenvolvi muitas coisas entre muitas plataformas, um ambiente mais louco que o outro! "
 
+##
+
 #### Front-end developer
 
 - **Knowledge:** JavaScript, Sass, HTML5, CSS3, Git & GitHub...
 - gabrieldeluchi6@gmail.com
 
->### Skills <img src="https://user-images.githubusercontent.com/98788821/209614966-decb7a0e-03fe-425a-837d-cd511d6197ee.gif" width="60" height="60"/> 
+##
+
+### Skills <img src="https://user-images.githubusercontent.com/98788821/209614966-decb7a0e-03fe-425a-837d-cd511d6197ee.gif" width="60" height="60"/> 
 
   <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
