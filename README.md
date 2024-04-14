@@ -1,8 +1,8 @@
-## Hello! I'm GabDeluchi 👋
+### Hi, how are you? 👋
 
 ### About Me <img src="https://user-images.githubusercontent.com/98788821/209613851-2c554bb7-4571-4322-b7c3-1e34ca111dd1.gif" width="80" height="80"/>
 
-- **About Me:**  E ai, galera! Como não podemos nos conhecer pessoalmente, aqui vai um pouco sobre mim... Mexo com tecnologia há 2 anos, já desenvolvi muitas coisas entre muitas plataformas, um ambiente mais louco que o outro! <br>
+- E ai, galera! Como não podemos nos conhecer pessoalmente, aqui vai um pouco sobre mim... Mexo com tecnologia há 2 anos, já desenvolvi muitas coisas entre muitas plataformas, um ambiente mais louco que o outro! <br>
 Estou sempre estudando novas tecnologias, frameworks e linguagens.
 
 ##
@@ -24,11 +24,9 @@ Estou sempre estudando novas tecnologias, frameworks e linguagens.
   
   ##
   
-### Links <img src="https://wealthie.works/wp-content/uploads/WLTH_Fox_Loop_v001.gif" width="60" height="60"/>
->>[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white)](https://)
->
->>[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://)
-
+### 🌐 Socials <img src="https://wealthie.works/wp-content/uploads/WLTH_Fox_Loop_v001.gif" width="60" height="60"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white)](https://)
+[![linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://)
 
 <!---
 GabDeluchi/GabDeluchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
