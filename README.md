@@ -23,12 +23,19 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="80" height="80"/>
   </div>
   
-  ##
+##
   
 ### 🌐 Links <img src="https://wealthie.works/wp-content/uploads/WLTH_Fox_Loop_v001.gif" width="60" height="60"/>
 >[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white)](https://)
 
 >[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://)
+
+##
+
+<div align="center">
+    Hey, you made it to the bottom!
+    Take a cookie 🍪
+</div>
 
 <!---
 GabDeluchi/GabDeluchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
