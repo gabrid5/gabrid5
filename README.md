@@ -2,17 +2,11 @@
 
 #### About Me <img src="https://user-images.githubusercontent.com/98788821/209613851-2c554bb7-4571-4322-b7c3-1e34ca111dd1.gif" width="80" height="80"/>
 
-<div align="center">
-
-    As a full stack developer, I have a wide range of skills... 
-    But, I confess, my true passion is in the back-end, that's where I really feel at home.
-
-</div>
-
+- **About Me:** " Eai, galera! Como não podemos nos conhecer pessoalmente, aqui vai um pouco sobre mim... Mexo com tecnologia há 2 anos, já desenvolvi muitas coisas entre muitas plataformas, um ambiente mais louco que o outro! "
 
 #### Front-end developer
 
-- Knowledge: JavaScript, Sass, HTML5, CSS3 and Git & GitHub...
+- **Knowledge:** JavaScript, Sass, HTML5, CSS3, Git & GitHub...
 - gabrieldeluchi6@gmail.com
 
 >### Skills <img src="https://user-images.githubusercontent.com/98788821/209614966-decb7a0e-03fe-425a-837d-cd511d6197ee.gif" width="60" height="60"/> 
