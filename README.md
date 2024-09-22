@@ -7,7 +7,7 @@
 
 ##
 
-#### Front-end developer 👨‍💻 
+#### Front-end developer 
 
 - **Knowledge:** JavaScript, Sass, HTML5, CSS3, Git & GitHub... 🚀
 - gabrieldeluchi6@gmail.com 📧
